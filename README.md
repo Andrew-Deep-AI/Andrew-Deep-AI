@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm Andrey, a self-motivated tech enthusiast and Frontend developer.
+
+💬 Connect [@Andrew_Deep_AI](https://t.me/Andrew_Deep_AI)
+
 <!--
 **Andrew-Deep-AI/Andrew-Deep-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
